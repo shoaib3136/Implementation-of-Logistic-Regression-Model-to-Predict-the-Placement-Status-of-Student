@@ -12,7 +12,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Copy the actual dataset and remove fields which are unnecessary.
 3. Then select dependent variable and independent variable from the dataset.
 4. And perform Logistic Regression.
-5. print the values of confusion matrix, accuracy, Classification report. 
+5. print the values of confusion matrix, accuracy, Classification report to find whether the student is placed or not. 
 
 ## Program:
 ```
