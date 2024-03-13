@@ -7,11 +7,12 @@ To write a program to implement the the Logistic Regression Model to Predict the
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
-1. 
-2. 
-3. 
-4. 
+## Algorithm:
+1. Import all necessary packages and dataset that you need to implement Logistic Regression.
+2. Copy the actual dataset and remove fields which are unnecessary.
+3. Then select dependent variable and independent variable from the dataset.
+4. And perform Logistic Regression.
+5. print the values of confusion matrix, accuracy, Classification report. 
 
 ## Program:
 ```
@@ -64,18 +65,13 @@ cn_display.plot()
 ```
 
 ## Output:
-i.) Accuracy Score and :
+i.) Accuracy Score, Confusion Matrix and Classification Report:
 
 ![image](https://github.com/shoaib3136/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/117919362/3cfefc81-a2c3-4e29-8bfb-80c1292f6e3e)
 
 ii.) Confusion Matrix:
 
 ![image](https://github.com/shoaib3136/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/117919362/98240d44-9cb0-45f3-8954-55b8ea78c155)
-
-iii.) 
-
-
-
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
